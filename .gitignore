@@ -1,0 +1,10 @@
+base*.*
+creacion*.*
+algoritmos*.*
+PostgresqlReview.pdf
+CursoPostgresqlVMazuco/*
+PostgresqlReview_bck.odt
+PostgresqlReview02.odt
+*.pdf
+Administracao/*
+*.odt#
